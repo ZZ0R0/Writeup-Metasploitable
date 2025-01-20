@@ -1,0 +1,408 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-01-17 16:07 CET
+Initiating ARP Ping Scan at 16:07
+Scanning 254 hosts [1 port/host]
+Completed ARP Ping Scan at 16:07, 1.95s elapsed (254 total hosts)
+Initiating Parallel DNS resolution of 6 hosts. at 16:07
+Completed Parallel DNS resolution of 6 hosts. at 16:07, 0.01s elapsed
+DNS resolution of 6 IPs took 0.01s. Mode: Async [#: 1, OK: 0, NX: 6, DR: 0, SF: 0, TR: 6, CN: 0]
+Nmap scan report for 10.6.0.0 [host down, received no-response]
+Nmap scan report for 10.6.0.2 [host down, received no-response]
+Nmap scan report for 10.6.0.3 [host down, received no-response]
+Nmap scan report for 10.6.0.4 [host down, received no-response]
+Nmap scan report for 10.6.0.12 [host down, received no-response]
+Nmap scan report for 10.6.0.13 [host down, received no-response]
+Nmap scan report for 10.6.0.14 [host down, received no-response]
+Nmap scan report for 10.6.0.15 [host down, received no-response]
+Nmap scan report for 10.6.0.16 [host down, received no-response]
+Nmap scan report for 10.6.0.17 [host down, received no-response]
+Nmap scan report for 10.6.0.18 [host down, received no-response]
+Nmap scan report for 10.6.0.19 [host down, received no-response]
+Nmap scan report for 10.6.0.20 [host down, received no-response]
+Nmap scan report for 10.6.0.21 [host down, received no-response]
+Nmap scan report for 10.6.0.22 [host down, received no-response]
+Nmap scan report for 10.6.0.23 [host down, received no-response]
+Nmap scan report for 10.6.0.24 [host down, received no-response]
+Nmap scan report for 10.6.0.25 [host down, received no-response]
+Nmap scan report for 10.6.0.26 [host down, received no-response]
+Nmap scan report for 10.6.0.27 [host down, received no-response]
+Nmap scan report for 10.6.0.28 [host down, received no-response]
+Nmap scan report for 10.6.0.29 [host down, received no-response]
+Nmap scan report for 10.6.0.30 [host down, received no-response]
+Nmap scan report for 10.6.0.31 [host down, received no-response]
+Nmap scan report for 10.6.0.32 [host down, received no-response]
+Nmap scan report for 10.6.0.33 [host down, received no-response]
+Nmap scan report for 10.6.0.34 [host down, received no-response]
+Nmap scan report for 10.6.0.35 [host down, received no-response]
+Nmap scan report for 10.6.0.36 [host down, received no-response]
+Nmap scan report for 10.6.0.37 [host down, received no-response]
+Nmap scan report for 10.6.0.38 [host down, received no-response]
+Nmap scan report for 10.6.0.39 [host down, received no-response]
+Nmap scan report for 10.6.0.40 [host down, received no-response]
+Nmap scan report for 10.6.0.41 [host down, received no-response]
+Nmap scan report for 10.6.0.42 [host down, received no-response]
+Nmap scan report for 10.6.0.43 [host down, received no-response]
+Nmap scan report for 10.6.0.44 [host down, received no-response]
+Nmap scan report for 10.6.0.45 [host down, received no-response]
+Nmap scan report for 10.6.0.46 [host down, received no-response]
+Nmap scan report for 10.6.0.47 [host down, received no-response]
+Nmap scan report for 10.6.0.48 [host down, received no-response]
+Nmap scan report for 10.6.0.49 [host down, received no-response]
+Nmap scan report for 10.6.0.50 [host down, received no-response]
+Nmap scan report for 10.6.0.51 [host down, received no-response]
+Nmap scan report for 10.6.0.52 [host down, received no-response]
+Nmap scan report for 10.6.0.53 [host down, received no-response]
+Nmap scan report for 10.6.0.54 [host down, received no-response]
+Nmap scan report for 10.6.0.55 [host down, received no-response]
+Nmap scan report for 10.6.0.56 [host down, received no-response]
+Nmap scan report for 10.6.0.57 [host down, received no-response]
+Nmap scan report for 10.6.0.58 [host down, received no-response]
+Nmap scan report for 10.6.0.59 [host down, received no-response]
+Nmap scan report for 10.6.0.60 [host down, received no-response]
+Nmap scan report for 10.6.0.61 [host down, received no-response]
+Nmap scan report for 10.6.0.62 [host down, received no-response]
+Nmap scan report for 10.6.0.63 [host down, received no-response]
+Nmap scan report for 10.6.0.64 [host down, received no-response]
+Nmap scan report for 10.6.0.65 [host down, received no-response]
+Nmap scan report for 10.6.0.66 [host down, received no-response]
+Nmap scan report for 10.6.0.67 [host down, received no-response]
+Nmap scan report for 10.6.0.68 [host down, received no-response]
+Nmap scan report for 10.6.0.69 [host down, received no-response]
+Nmap scan report for 10.6.0.70 [host down, received no-response]
+Nmap scan report for 10.6.0.71 [host down, received no-response]
+Nmap scan report for 10.6.0.72 [host down, received no-response]
+Nmap scan report for 10.6.0.73 [host down, received no-response]
+Nmap scan report for 10.6.0.74 [host down, received no-response]
+Nmap scan report for 10.6.0.75 [host down, received no-response]
+Nmap scan report for 10.6.0.76 [host down, received no-response]
+Nmap scan report for 10.6.0.77 [host down, received no-response]
+Nmap scan report for 10.6.0.78 [host down, received no-response]
+Nmap scan report for 10.6.0.79 [host down, received no-response]
+Nmap scan report for 10.6.0.80 [host down, received no-response]
+Nmap scan report for 10.6.0.81 [host down, received no-response]
+Nmap scan report for 10.6.0.82 [host down, received no-response]
+Nmap scan report for 10.6.0.83 [host down, received no-response]
+Nmap scan report for 10.6.0.84 [host down, received no-response]
+Nmap scan report for 10.6.0.85 [host down, received no-response]
+Nmap scan report for 10.6.0.86 [host down, received no-response]
+Nmap scan report for 10.6.0.87 [host down, received no-response]
+Nmap scan report for 10.6.0.88 [host down, received no-response]
+Nmap scan report for 10.6.0.89 [host down, received no-response]
+Nmap scan report for 10.6.0.90 [host down, received no-response]
+Nmap scan report for 10.6.0.91 [host down, received no-response]
+Nmap scan report for 10.6.0.92 [host down, received no-response]
+Nmap scan report for 10.6.0.93 [host down, received no-response]
+Nmap scan report for 10.6.0.94 [host down, received no-response]
+Nmap scan report for 10.6.0.95 [host down, received no-response]
+Nmap scan report for 10.6.0.96 [host down, received no-response]
+Nmap scan report for 10.6.0.97 [host down, received no-response]
+Nmap scan report for 10.6.0.98 [host down, received no-response]
+Nmap scan report for 10.6.0.99 [host down, received no-response]
+Nmap scan report for 10.6.0.100 [host down, received no-response]
+Nmap scan report for 10.6.0.101 [host down, received no-response]
+Nmap scan report for 10.6.0.102 [host down, received no-response]
+Nmap scan report for 10.6.0.103 [host down, received no-response]
+Nmap scan report for 10.6.0.104 [host down, received no-response]
+Nmap scan report for 10.6.0.105 [host down, received no-response]
+Nmap scan report for 10.6.0.106 [host down, received no-response]
+Nmap scan report for 10.6.0.107 [host down, received no-response]
+Nmap scan report for 10.6.0.108 [host down, received no-response]
+Nmap scan report for 10.6.0.109 [host down, received no-response]
+Nmap scan report for 10.6.0.110 [host down, received no-response]
+Nmap scan report for 10.6.0.111 [host down, received no-response]
+Nmap scan report for 10.6.0.112 [host down, received no-response]
+Nmap scan report for 10.6.0.113 [host down, received no-response]
+Nmap scan report for 10.6.0.114 [host down, received no-response]
+Nmap scan report for 10.6.0.115 [host down, received no-response]
+Nmap scan report for 10.6.0.116 [host down, received no-response]
+Nmap scan report for 10.6.0.117 [host down, received no-response]
+Nmap scan report for 10.6.0.118 [host down, received no-response]
+Nmap scan report for 10.6.0.119 [host down, received no-response]
+Nmap scan report for 10.6.0.120 [host down, received no-response]
+Nmap scan report for 10.6.0.121 [host down, received no-response]
+Nmap scan report for 10.6.0.122 [host down, received no-response]
+Nmap scan report for 10.6.0.123 [host down, received no-response]
+Nmap scan report for 10.6.0.124 [host down, received no-response]
+Nmap scan report for 10.6.0.125 [host down, received no-response]
+Nmap scan report for 10.6.0.126 [host down, received no-response]
+Nmap scan report for 10.6.0.127 [host down, received no-response]
+Nmap scan report for 10.6.0.128 [host down, received no-response]
+Nmap scan report for 10.6.0.129 [host down, received no-response]
+Nmap scan report for 10.6.0.130 [host down, received no-response]
+Nmap scan report for 10.6.0.131 [host down, received no-response]
+Nmap scan report for 10.6.0.132 [host down, received no-response]
+Nmap scan report for 10.6.0.133 [host down, received no-response]
+Nmap scan report for 10.6.0.134 [host down, received no-response]
+Nmap scan report for 10.6.0.135 [host down, received no-response]
+Nmap scan report for 10.6.0.136 [host down, received no-response]
+Nmap scan report for 10.6.0.137 [host down, received no-response]
+Nmap scan report for 10.6.0.138 [host down, received no-response]
+Nmap scan report for 10.6.0.139 [host down, received no-response]
+Nmap scan report for 10.6.0.140 [host down, received no-response]
+Nmap scan report for 10.6.0.141 [host down, received no-response]
+Nmap scan report for 10.6.0.142 [host down, received no-response]
+Nmap scan report for 10.6.0.143 [host down, received no-response]
+Nmap scan report for 10.6.0.144 [host down, received no-response]
+Nmap scan report for 10.6.0.145 [host down, received no-response]
+Nmap scan report for 10.6.0.146 [host down, received no-response]
+Nmap scan report for 10.6.0.147 [host down, received no-response]
+Nmap scan report for 10.6.0.148 [host down, received no-response]
+Nmap scan report for 10.6.0.149 [host down, received no-response]
+Nmap scan report for 10.6.0.150 [host down, received no-response]
+Nmap scan report for 10.6.0.151 [host down, received no-response]
+Nmap scan report for 10.6.0.152 [host down, received no-response]
+Nmap scan report for 10.6.0.153 [host down, received no-response]
+Nmap scan report for 10.6.0.154 [host down, received no-response]
+Nmap scan report for 10.6.0.155 [host down, received no-response]
+Nmap scan report for 10.6.0.156 [host down, received no-response]
+Nmap scan report for 10.6.0.157 [host down, received no-response]
+Nmap scan report for 10.6.0.158 [host down, received no-response]
+Nmap scan report for 10.6.0.159 [host down, received no-response]
+Nmap scan report for 10.6.0.160 [host down, received no-response]
+Nmap scan report for 10.6.0.161 [host down, received no-response]
+Nmap scan report for 10.6.0.162 [host down, received no-response]
+Nmap scan report for 10.6.0.163 [host down, received no-response]
+Nmap scan report for 10.6.0.164 [host down, received no-response]
+Nmap scan report for 10.6.0.165 [host down, received no-response]
+Nmap scan report for 10.6.0.166 [host down, received no-response]
+Nmap scan report for 10.6.0.167 [host down, received no-response]
+Nmap scan report for 10.6.0.168 [host down, received no-response]
+Nmap scan report for 10.6.0.169 [host down, received no-response]
+Nmap scan report for 10.6.0.170 [host down, received no-response]
+Nmap scan report for 10.6.0.171 [host down, received no-response]
+Nmap scan report for 10.6.0.172 [host down, received no-response]
+Nmap scan report for 10.6.0.173 [host down, received no-response]
+Nmap scan report for 10.6.0.174 [host down, received no-response]
+Nmap scan report for 10.6.0.175 [host down, received no-response]
+Nmap scan report for 10.6.0.176 [host down, received no-response]
+Nmap scan report for 10.6.0.177 [host down, received no-response]
+Nmap scan report for 10.6.0.178 [host down, received no-response]
+Nmap scan report for 10.6.0.179 [host down, received no-response]
+Nmap scan report for 10.6.0.180 [host down, received no-response]
+Nmap scan report for 10.6.0.181 [host down, received no-response]
+Nmap scan report for 10.6.0.182 [host down, received no-response]
+Nmap scan report for 10.6.0.183 [host down, received no-response]
+Nmap scan report for 10.6.0.184 [host down, received no-response]
+Nmap scan report for 10.6.0.185 [host down, received no-response]
+Nmap scan report for 10.6.0.186 [host down, received no-response]
+Nmap scan report for 10.6.0.187 [host down, received no-response]
+Nmap scan report for 10.6.0.188 [host down, received no-response]
+Nmap scan report for 10.6.0.189 [host down, received no-response]
+Nmap scan report for 10.6.0.190 [host down, received no-response]
+Nmap scan report for 10.6.0.191 [host down, received no-response]
+Nmap scan report for 10.6.0.192 [host down, received no-response]
+Nmap scan report for 10.6.0.193 [host down, received no-response]
+Nmap scan report for 10.6.0.194 [host down, received no-response]
+Nmap scan report for 10.6.0.195 [host down, received no-response]
+Nmap scan report for 10.6.0.196 [host down, received no-response]
+Nmap scan report for 10.6.0.197 [host down, received no-response]
+Nmap scan report for 10.6.0.198 [host down, received no-response]
+Nmap scan report for 10.6.0.199 [host down, received no-response]
+Nmap scan report for 10.6.0.200 [host down, received no-response]
+Nmap scan report for 10.6.0.201 [host down, received no-response]
+Nmap scan report for 10.6.0.202 [host down, received no-response]
+Nmap scan report for 10.6.0.203 [host down, received no-response]
+Nmap scan report for 10.6.0.204 [host down, received no-response]
+Nmap scan report for 10.6.0.205 [host down, received no-response]
+Nmap scan report for 10.6.0.206 [host down, received no-response]
+Nmap scan report for 10.6.0.207 [host down, received no-response]
+Nmap scan report for 10.6.0.208 [host down, received no-response]
+Nmap scan report for 10.6.0.209 [host down, received no-response]
+Nmap scan report for 10.6.0.210 [host down, received no-response]
+Nmap scan report for 10.6.0.211 [host down, received no-response]
+Nmap scan report for 10.6.0.212 [host down, received no-response]
+Nmap scan report for 10.6.0.213 [host down, received no-response]
+Nmap scan report for 10.6.0.214 [host down, received no-response]
+Nmap scan report for 10.6.0.215 [host down, received no-response]
+Nmap scan report for 10.6.0.216 [host down, received no-response]
+Nmap scan report for 10.6.0.217 [host down, received no-response]
+Nmap scan report for 10.6.0.218 [host down, received no-response]
+Nmap scan report for 10.6.0.219 [host down, received no-response]
+Nmap scan report for 10.6.0.220 [host down, received no-response]
+Nmap scan report for 10.6.0.221 [host down, received no-response]
+Nmap scan report for 10.6.0.222 [host down, received no-response]
+Nmap scan report for 10.6.0.223 [host down, received no-response]
+Nmap scan report for 10.6.0.224 [host down, received no-response]
+Nmap scan report for 10.6.0.225 [host down, received no-response]
+Nmap scan report for 10.6.0.226 [host down, received no-response]
+Nmap scan report for 10.6.0.227 [host down, received no-response]
+Nmap scan report for 10.6.0.228 [host down, received no-response]
+Nmap scan report for 10.6.0.229 [host down, received no-response]
+Nmap scan report for 10.6.0.230 [host down, received no-response]
+Nmap scan report for 10.6.0.231 [host down, received no-response]
+Nmap scan report for 10.6.0.232 [host down, received no-response]
+Nmap scan report for 10.6.0.233 [host down, received no-response]
+Nmap scan report for 10.6.0.234 [host down, received no-response]
+Nmap scan report for 10.6.0.235 [host down, received no-response]
+Nmap scan report for 10.6.0.236 [host down, received no-response]
+Nmap scan report for 10.6.0.237 [host down, received no-response]
+Nmap scan report for 10.6.0.238 [host down, received no-response]
+Nmap scan report for 10.6.0.239 [host down, received no-response]
+Nmap scan report for 10.6.0.240 [host down, received no-response]
+Nmap scan report for 10.6.0.241 [host down, received no-response]
+Nmap scan report for 10.6.0.242 [host down, received no-response]
+Nmap scan report for 10.6.0.243 [host down, received no-response]
+Nmap scan report for 10.6.0.244 [host down, received no-response]
+Nmap scan report for 10.6.0.245 [host down, received no-response]
+Nmap scan report for 10.6.0.246 [host down, received no-response]
+Nmap scan report for 10.6.0.247 [host down, received no-response]
+Nmap scan report for 10.6.0.248 [host down, received no-response]
+Nmap scan report for 10.6.0.249 [host down, received no-response]
+Nmap scan report for 10.6.0.250 [host down, received no-response]
+Nmap scan report for 10.6.0.251 [host down, received no-response]
+Nmap scan report for 10.6.0.252 [host down, received no-response]
+Nmap scan report for 10.6.0.253 [host down, received no-response]
+Nmap scan report for 10.6.0.254 [host down, received no-response]
+Nmap scan report for 10.6.0.255 [host down, received no-response]
+Initiating Parallel DNS resolution of 2 hosts. at 16:07
+Completed Parallel DNS resolution of 2 hosts. at 16:07, 0.01s elapsed
+DNS resolution of 2 IPs took 0.01s. Mode: Async [#: 1, OK: 0, NX: 2, DR: 0, SF: 0, TR: 2, CN: 0]
+Initiating SYN Stealth Scan at 16:07
+Scanning 6 hosts [1000 ports/host]
+Discovered open port 21/tcp on 10.6.0.7
+Discovered open port 23/tcp on 10.6.0.7
+Discovered open port 22/tcp on 10.6.0.5
+Discovered open port 22/tcp on 10.6.0.7
+Discovered open port 25/tcp on 10.6.0.7
+Discovered open port 53/tcp on 10.6.0.7
+Discovered open port 53/tcp on 10.6.0.6
+Discovered open port 3389/tcp on 10.6.0.6
+Discovered open port 22/tcp on 10.6.0.10
+Discovered open port 3389/tcp on 10.6.0.8
+Discovered open port 53/tcp on 10.6.0.1
+Discovered open port 5900/tcp on 10.6.0.7
+Discovered open port 3306/tcp on 10.6.0.7
+Discovered open port 139/tcp on 10.6.0.7
+Discovered open port 445/tcp on 10.6.0.7
+Discovered open port 80/tcp on 10.6.0.7
+Discovered open port 1099/tcp on 10.6.0.7
+Discovered open port 5432/tcp on 10.6.0.7
+Discovered open port 6000/tcp on 10.6.0.7
+Discovered open port 6667/tcp on 10.6.0.7
+Discovered open port 513/tcp on 10.6.0.7
+Discovered open port 1524/tcp on 10.6.0.7
+Discovered open port 8000/tcp on 10.6.0.10
+Discovered open port 8180/tcp on 10.6.0.7
+Discovered open port 2121/tcp on 10.6.0.7
+Discovered open port 512/tcp on 10.6.0.7
+Discovered open port 8009/tcp on 10.6.0.7
+Discovered open port 514/tcp on 10.6.0.7
+Completed SYN Stealth Scan against 10.6.0.5 in 0.60s (5 hosts left)
+Completed SYN Stealth Scan against 10.6.0.10 in 0.60s (4 hosts left)
+Completed SYN Stealth Scan against 10.6.0.7 in 0.60s (3 hosts left)
+Discovered open port 139/tcp on 10.6.0.6
+Discovered open port 445/tcp on 10.6.0.6
+Discovered open port 135/tcp on 10.6.0.6
+Discovered open port 80/tcp on 10.6.0.1
+Discovered open port 5985/tcp on 10.6.0.6
+Discovered open port 593/tcp on 10.6.0.6
+Discovered open port 389/tcp on 10.6.0.6
+Discovered open port 3269/tcp on 10.6.0.6
+Discovered open port 636/tcp on 10.6.0.6
+Discovered open port 3268/tcp on 10.6.0.6
+Discovered open port 88/tcp on 10.6.0.6
+Discovered open port 464/tcp on 10.6.0.6
+Completed SYN Stealth Scan against 10.6.0.1 in 6.80s (2 hosts left)
+Completed SYN Stealth Scan against 10.6.0.6 in 6.88s (1 host left)
+Completed SYN Stealth Scan at 16:07, 6.90s elapsed (6000 total ports)
+Nmap scan report for 10.6.0.1
+Host is up, received arp-response (0.0013s latency).
+Scanned at 2025-01-17 16:07:09 CET for 6s
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE SERVICE REASON
+53/tcp open  domain  syn-ack ttl 64
+80/tcp open  http    syn-ack ttl 64
+MAC Address: BC:24:11:80:8A:B9 (Proxmox Server Solutions GmbH)
+
+Nmap scan report for 10.6.0.5
+Host is up, received arp-response (0.00021s latency).
+Scanned at 2025-01-17 16:07:09 CET for 0s
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE REASON
+22/tcp open  ssh     syn-ack ttl 64
+MAC Address: BC:24:11:7A:41:E2 (Proxmox Server Solutions GmbH)
+
+Nmap scan report for 10.6.0.6
+Host is up, received arp-response (0.0013s latency).
+Scanned at 2025-01-17 16:07:09 CET for 6s
+Not shown: 987 filtered tcp ports (no-response)
+PORT     STATE SERVICE          REASON
+53/tcp   open  domain           syn-ack ttl 128
+88/tcp   open  kerberos-sec     syn-ack ttl 128
+135/tcp  open  msrpc            syn-ack ttl 128
+139/tcp  open  netbios-ssn      syn-ack ttl 128
+389/tcp  open  ldap             syn-ack ttl 128
+445/tcp  open  microsoft-ds     syn-ack ttl 128
+464/tcp  open  kpasswd5         syn-ack ttl 128
+593/tcp  open  http-rpc-epmap   syn-ack ttl 128
+636/tcp  open  ldapssl          syn-ack ttl 128
+3268/tcp open  globalcatLDAP    syn-ack ttl 128
+3269/tcp open  globalcatLDAPssl syn-ack ttl 128
+3389/tcp open  ms-wbt-server    syn-ack ttl 128
+5985/tcp open  wsman            syn-ack ttl 128
+MAC Address: BC:24:11:76:5F:1F (Proxmox Server Solutions GmbH)
+
+Nmap scan report for 10.6.0.7
+Host is up, received arp-response (0.00075s latency).
+Scanned at 2025-01-17 16:07:09 CET for 0s
+Not shown: 979 closed tcp ports (reset)
+PORT     STATE SERVICE      REASON
+21/tcp   open  ftp          syn-ack ttl 64
+22/tcp   open  ssh          syn-ack ttl 64
+23/tcp   open  telnet       syn-ack ttl 64
+25/tcp   open  smtp         syn-ack ttl 64
+53/tcp   open  domain       syn-ack ttl 64
+80/tcp   open  http         syn-ack ttl 64
+139/tcp  open  netbios-ssn  syn-ack ttl 64
+445/tcp  open  microsoft-ds syn-ack ttl 64
+512/tcp  open  exec         syn-ack ttl 64
+513/tcp  open  login        syn-ack ttl 64
+514/tcp  open  shell        syn-ack ttl 64
+1099/tcp open  rmiregistry  syn-ack ttl 64
+1524/tcp open  ingreslock   syn-ack ttl 64
+2121/tcp open  ccproxy-ftp  syn-ack ttl 64
+3306/tcp open  mysql        syn-ack ttl 64
+5432/tcp open  postgresql   syn-ack ttl 64
+5900/tcp open  vnc          syn-ack ttl 64
+6000/tcp open  X11          syn-ack ttl 64
+6667/tcp open  irc          syn-ack ttl 64
+8009/tcp open  ajp13        syn-ack ttl 64
+8180/tcp open  unknown      syn-ack ttl 64
+MAC Address: BC:24:11:85:BF:FA (Proxmox Server Solutions GmbH)
+
+Nmap scan report for 10.6.0.8
+Host is up, received arp-response (0.0019s latency).
+Scanned at 2025-01-17 16:07:09 CET for 6s
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE       REASON
+3389/tcp open  ms-wbt-server syn-ack ttl 128
+MAC Address: BC:24:11:4F:74:20 (Proxmox Server Solutions GmbH)
+
+Nmap scan report for 10.6.0.10
+Host is up, received arp-response (0.00056s latency).
+Scanned at 2025-01-17 16:07:09 CET for 0s
+Not shown: 998 closed tcp ports (reset)
+PORT     STATE SERVICE  REASON
+22/tcp   open  ssh      syn-ack ttl 64
+8000/tcp open  http-alt syn-ack ttl 63
+MAC Address: BC:24:11:9D:F4:40 (Proxmox Server Solutions GmbH)
+
+Initiating SYN Stealth Scan at 16:07
+Scanning 2 hosts [1000 ports/host]
+Completed SYN Stealth Scan against 10.6.0.9 in 0.15s (1 host left)
+Completed SYN Stealth Scan at 16:07, 0.15s elapsed (2000 total ports)
+Nmap scan report for 10.6.0.9
+Host is up, received user-set (0.000023s latency).
+Scanned at 2025-01-17 16:07:15 CET for 1s
+All 1000 scanned ports on 10.6.0.9 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+Nmap scan report for 10.6.0.11
+Host is up, received user-set (0.000023s latency).
+Scanned at 2025-01-17 16:07:15 CET for 1s
+All 1000 scanned ports on 10.6.0.11 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+Read data files from: /usr/share/nmap
+Nmap done: 256 IP addresses (8 hosts up) scanned in 9.25 seconds
+           Raw packets sent: 11502 (497.976KB) | Rcvd: 6038 (245.592KB)
+

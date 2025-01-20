@@ -1,5 +1,19 @@
 # Rapport Nmap - Metasploitable 2
 
+commande utilisée pour le ping préliminaire du subnet
+```bash
+nmap -Pn -vvv 10.6.0.9/24 | tee ping.nmap
+```
+
+=> [résultat scan ping](ping.nmap)
+
+commande utilisée pour le scan:
+```bash
+nmap -vvv -Pn -A -p- 10.6.0.7 | tee scan.nmap
+```
+
+=> [résultat scan complet et unitaire](scan.nmap)
+
 Ce document présente les résultats d’un scan Nmap réalisé sur la cible `10.6.0.7`. Ce serveur est une machine **Metasploitable 2**, souvent utilisée à des fins d’entraînement sur les failles de sécurité et l’exploitation de services vulnérables.
 
 ---
