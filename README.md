@@ -1,5 +1,8 @@
 # Writeup-Metasploitable
 
+> **📦 Archived (read-only).** No longer maintained — kept for reference only.
+
+
 **A penetration-test write-up of Metasploitable 2** — recon, scanning, and exploitation of
 several services, with the supporting nmap output and notes. Written during cybersecurity
 training (Simplon).
